@@ -1,4 +1,4 @@
-# Useless Benchmark
+# Simple Benchmark
 
 This is just an (almost) useless benchmark to compare the performance of different programming languages.
 

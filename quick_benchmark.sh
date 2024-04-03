@@ -8,7 +8,7 @@ fi
 
 
 if [[ $# -lt 1 ]]; then
-    echo "Usage: bench.sh <program>"
+    echo "Usage: quick_benchmark.sh <program>"
     exit 1
 fi
 
